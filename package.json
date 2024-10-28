@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "auth_demo",
   "private": true,
   "type": "module",
   "engines": {
